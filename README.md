@@ -1,6 +1,4 @@
-<p align="center">
-**WELCOME**
-</p>
+###**WELCOME**
 
 ## About me
 Hi! My name is Ariadne Rincon and I am a fourth year computer science major at CSUF. I am extremely excited to graduate in spring '23, but as of right now I am focusing on learning core concepts, improving my skills, and creating new projects!
