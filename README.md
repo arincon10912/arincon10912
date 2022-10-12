@@ -1,4 +1,7 @@
+<p align="center">
 ### WELCOME
+</p>
+
 ## About me
 Hi! My name is Ariadne Rincon and I am a fourth year computer science major at CSUF. I am extremely excited to graduate in spring '23, but as of right now I am focusing on learning core concepts, improving my skills, and creating new projects!
 
@@ -8,8 +11,8 @@ Hi! My name is Ariadne Rincon and I am a fourth year computer science major at C
 - Making core memories :camera:
 
 ## What I am currently working on
-- AllergyFree
-Stats:
+- AllergyFree. 
+Stats:  
 ![GitHub last commit](https://img.shields.io/github/last-commit/arincon10912/AllergyFree?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/arincon10912/AllergyFree?style=for-the-badge)
 - Objective-C 
