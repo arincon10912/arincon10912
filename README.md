@@ -19,6 +19,5 @@ Check out my stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arincon10912&theme=highcontrast)](https://git.io/streak-stats)
 
 - 📫 How to reach me: arincon10912@csu.fullerton.edu   
-- :handshake: Connect with me:  
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ariadne-rincon/)  
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/arincon10912)  
+- :handshake: Connect with me: 
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ariadne-rincon/) [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/arincon10912)  
