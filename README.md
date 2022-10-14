@@ -16,9 +16,9 @@ Check out my stats:
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/arincon10912/AllergyFree?style=for-the-badge)    
 - **Mobile App Projects**                   
 Currently taking an iOS mobile programming course where we create new projects constantly both in Objective-C and Swift.  
-## 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arincon10912&layout=compact&theme=highcontrast)](https://github.com/arincon10912/github-readme-stats)
+##  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arincon10912&theme=highcontrast)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arincon10912&layout=compact&theme=highcontrast)](https://github.com/arincon10912/github-readme-stats)
 
 - 📫 How to reach me: arincon10912@csu.fullerton.edu   
 - :handshake: Connect with me:  [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ariadne-rincon/) 
