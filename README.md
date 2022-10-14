@@ -9,8 +9,8 @@ Hi! My name is Ariadne Rincon and I am a fourth year computer science major at C
 - Making core memories :camera:
 
 ## Projects I am currently working on
-- AllergyFree Repo 
-This is a semester long project I am working on every week for my Software Engineering class.  
+- AllergyFree Repo    
+This is a semester long project I am working on every week for my Software Engineering class.      
 Check out my stats:   
 ![GitHub last commit](https://img.shields.io/github/last-commit/arincon10912/AllergyFree?style=for-the-badge)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/arincon10912/AllergyFree?style=for-the-badge)    
