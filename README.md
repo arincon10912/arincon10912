@@ -10,7 +10,11 @@ Hi! My name is Ariadne Rincon and I am a senior computer science major at CSUF. 
 
 ## I am currently working on...
 - **Ray Tracer Projects**    
-- **Video Game Projects**
+  Creating worlds with geometric objects like spheres, triangles, rings, etc.   
+  Using this knowledge to render 3D realistic images   
+- **Video Game Projects**    
+  Created a BlackJack Game from scratch!   
+  Working on a loading screen for my new game   
   
 ##  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arincon10912&theme=highcontrast)](https://git.io/streak-stats)
