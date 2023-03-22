@@ -2,20 +2,16 @@
 
 ## About me
 Pronouns: She/her/hers 👩🏽  
-Hi! My name is Ariadne Rincon and I am a fourth year computer science major at CSUF. I am extremely excited to graduate in spring '23, but as of right now I am focusing on learning core concepts, improving my skills, and creating new projects!
+Hi! My name is Ariadne Rincon and I am a senior computer science major at CSUF. I am extremely excited to graduate this spring '23, but as of right now I am focusing on learning core concepts, improving my skills, and creating new projects!
 
 ## Things I am passionate about
 - Coding :computer:
 - Making core memories :camera:
 
-## Projects I am currently working on
-- **AllergyFree Repo**    
-This is a semester long project I am working on every week for my Software Engineering class.      
-Check out my stats:   
-![GitHub last commit](https://img.shields.io/github/last-commit/arincon10912/AllergyFree?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/arincon10912/AllergyFree?style=for-the-badge)    
-- **Mobile App Projects**                   
-Currently taking an iOS mobile programming course where we create new projects constantly both in Objective-C and Swift.  
+## I am currently working on...
+- **Ray Tracer Projects**    
+- **Video Game Projects**
+  
 ##  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arincon10912&theme=highcontrast)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arincon10912&layout=compact&theme=highcontrast)](https://github.com/arincon10912/github-readme-stats)
