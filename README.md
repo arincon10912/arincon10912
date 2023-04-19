@@ -14,7 +14,12 @@ Hi! My name is Ariadne Rincon and I am a senior computer science major at CSUF. 
   Using this knowledge to render 3D realistic images   
 - **Video Game Projects**    
   Created a BlackJack Game from scratch!   
-  Working on a loading screen for my new game   
+  Working on a loading screen for my new game  
+- **Discord Bots**  
+  Creating multiple discord bots with unique functionalities to add into your discord servers!  
+  More Info:  
+    TranslateLanguageBot when finished will help users within a server to translate words or phrases into any language they'd like.  
+    This project has given me experience in working with API's (discord and google translate) and learning how to web-scrape.  
   
 ##  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arincon10912&theme=highcontrast)](https://git.io/streak-stats)
