@@ -2,23 +2,25 @@
 
 ## About me
 Pronouns: She/her/hers 👩🏽  
-Hi! My name is Ariadne Rincon and I am a senior computer science major at CSUF. I am extremely excited to graduate this spring '23, but as of right now I am focusing on learning core concepts, improving my skills, and creating new projects!
+Hi! My name is Ariadne Rincon and I am a recent computer science graduate from CSUF. I am excited to continue my journey and have started working towards my Master's degree in Cybersecurity at Purdue University. Right now, my biggest goals for 2024 are to improve my skills as a programmer as well as gain experience within my field. I am so excited about what 2024 will have in store for me!
 
 ## Things I am passionate about
 - Coding :computer:
-- Making core memories :camera:
+- Traveling :airplane:
+- Baking :cupcake:
 
-## I am currently working on...
+## My recent projects:
 - **Ray Tracer Projects**    
   Creating worlds with geometric objects like spheres, triangles, rings, etc.   
   Using this knowledge to render 3D realistic images   
 - **Video Game Projects**    
   Created a BlackJack Game from scratch!   
   Working on a loading screen for my new game  
-- **Discord Bots**  
-  Creating multiple discord bots with unique functionalities to add into your discord servers!  
-  More Info:  
-    TranslateLanguageBot when finished will help users within a server to translate words or phrases into any language they'd like.  
+- **Discord Bots**
+  Creating multiple discord bots with unique functionalities to add to your discord servers!  
+  More Info:
+    Now Available!
+    TranslateLanguageBot helps users within a server to translate words or phrases into any language they'd like.  
     This project has given me experience in working with API's (discord and google translate) and learning how to web-scrape.  
   
 ##  
